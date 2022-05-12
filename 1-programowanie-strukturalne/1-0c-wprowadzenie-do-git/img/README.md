@@ -1,10 +1,10 @@
-# \<Nazwa repozytorium  >
+# \<Informatyka  >
 
-`<Imię i nazwisko autora> <data stworzenia>`
+`<Mateusz Turczyk> <12.05.2022>`
 
 ## Opis
 
-Opis projektu
+cos
 
 ## Spis treści
 
